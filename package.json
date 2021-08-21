@@ -4,12 +4,12 @@
   "description": "Meu catalogo pro e um e-commerce completo para gerenciar as vendas de pequenos negocios na internet",
   "main": "server.js",
   "scripts": {
-    "start": "node backend/server.js",
+    "start": "node backend/server.jsls",
     "prod": "NODE_ENV=PRODUCTION nodemon backend/server --ignore frontend",
     "dev": "NODE_ENV=DEVELOPMENT nodemon backend/server --ignore frontend",
     "test": "echo \"Error: no test specified\" && exit 1",
     "seeder": "node backend/utils/seeder.js",
-    "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false && npm install --prefix frontend && npm run build --prefix frontend"
+    "heroku-postbuild" : "NPM_CONFIG_PRODUCTION=false && npm install --prefix frontend && npm run build --prefix frontend"
   },
   "repository": {
     "type": "git",
