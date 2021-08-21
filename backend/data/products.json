@@ -1,0 +1,102 @@
+[
+        {
+            "price": 20,
+            "ratings": 3.5,
+            "stock": 10,
+            "numOfReviews": 3,
+            "name": "Airpods Wireless Bluetooth Headphones",
+            "description": "Bluetooth technology lets you connect it with compatible devices wirelessly High-quality AAC audio offers immersive listening experience Built-in microphone allows you to take calls while working",
+            "images": [
+                {
+        
+                    "public_id": "meucatalogopro/airpods_jeL9U3J_x0mkm9.jpg",
+                    "url": "https://res.cloudinary.com/rauldillan/image/upload/v1622905150/meucatalogopro/airpods_jeL9U3J_x0mkm9.jpg"
+                }
+            ],
+            "brand": "Apple",
+            "category": "Electronics",
+            "seller": "Raul",
+            "reviews": []
+        },
+        {
+            "price": 20,
+            "ratings": 3.5,
+            "stock": 10,
+            "numOfReviews": 3,
+            "name": "iPhone 11 Pro 256GB Memory",
+            "description": "Introducing the iPhone 11 Pro. A transformative triple-camera system that adds tons of capability without complexity. An unprecedented leap in battery life",
+            "images": [
+                {
+           
+                    "public_id": "meucatalogopro/phone_Un1gJOd_uegnc2.jpg",
+                    "url": "https://res.cloudinary.com/rauldillan/image/upload/v1622909738/meucatalogopro/phone_Un1gJOd_uegnc2.jpg"
+                }
+            ],
+            "brand": "Apple",
+            "category": "Electronics",
+            "seller": "Raul",
+            "reviews": []
+          
+        },
+        {
+            "price": 20,
+            "ratings": 3.5,
+            "stock": 10,
+            "numOfReviews": 3,
+            "name": "Cannon EOS 80D DSLR Camera",
+            "description": "Characterized by versatile imaging specs, the Canon EOS 80D further clarifies itself using a pair of robust focusing systems and an intuitive design",
+            "images": [
+                {
+                  
+                    "public_id": "meucatalogopro/phone_Un1gJOd_uegnc2.jpg",
+                    "url": "https://res.cloudinary.com/rauldillan/image/upload/v1622909738/meucatalogopro/phone_Un1gJOd_uegnc2.jpg"
+                }
+            ],
+            "brand": "Cannon",
+            "category": "Electronics",
+            "seller": "Raul",
+            "reviews": []
+          
+        },
+        {
+            "price": 20,
+            "ratings": 3.5,
+            "stock": 10,
+            "numOfReviews": 3,
+            "name": "Cannon EOS 80D DSLR Camera",
+            "description": "Characterized by versatile imaging specs, the Canon EOS 80D further clarifies itself using a pair of robust focusing systems and an intuitive design",
+            "images": [
+                {
+                  
+                    "public_id": "meucatalogopro/phone_Un1gJOd_uegnc2.jpg",
+                    "url": "https://res.cloudinary.com/rauldillan/image/upload/v1622909738/meucatalogopro/phone_Un1gJOd_uegnc2.jpg"
+                }
+            ],
+            "brand": "Cannon",
+            "category": "Electronics",
+            "seller": "Raul",
+            "reviews": []
+          
+        },
+
+        {
+            "price": 80,
+            "ratings": 4.5,
+            "stock": 10,
+            "numOfReviews": 10,
+            "name": "Amazon Echo Dot 3rd Generation",
+            "description": "Meet Echo Dot - Our most popular smart speaker with a fabric design. It is our most compact smart speaker that fits perfectly into small space",
+            "images": [
+                {
+                  
+                    "public_id": "meucatalogopro/alexa_zntvak.jpg",
+                    "url": "https://res.cloudinary.com/rauldillan/image/upload/v1623594246/meucatalogopro/alexa_zntvak.jpg"
+                }
+            ],
+            "brand": "Amazon",
+            "category": "Electronics",
+            "seller": "Raul",
+            "reviews": []
+          
+        }
+]
