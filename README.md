@@ -36,7 +36,7 @@ Dillinger requires [Node.js](https://nodejs.org/) v10+ to run.
 Install the dependencies and devDependencies and start the server.
 
 ```sh
-cd dillinger
+
 npm i
 node run start
 ```
@@ -44,4 +44,4 @@ node run start
 For production environments...
 
 ```sh
-npm run de
+npm run dev
